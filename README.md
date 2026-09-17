@@ -40,12 +40,13 @@ En este caso se elige un dataset centrado en los peajes a nivel nacional y se qu
 
 
 ## Cómo Ejecutar el Proyecto
-1.Desde visual studio code, abra la terminal y con el comando: cd "ruta donde alojará el proyecto" ingrese al folder.
+```text
+1. Desde visual studio code, abra la terminal y con el comando: cd "ruta donde alojará el proyecto" ingrese al folder.
 2. Clonar el repositorio con el comando:
    git clone [https://github.com/tu-usuario/regresion-peajes-colombia.git](https://github.com/angiezarate2216/proyecto-peajes-colombia-ml.git)
 3. Instalar dependencias usando el comando: pip install -r requirements.txt
 4. Ejecutar el script principal para obtener los resultados: python main.py
-
+```
 ## Consideraciones
 1. Las figuras y gráficas ya están cargadas; pero al ejecutar el proyecto se volverán a generar en su entorno local.
 2. Por consola también se darán a conocer resultados estadísticos de las variables independientes establecidas y adicional de la variable dependiente, como también se reflejarán los resultados principales una vez entrenado el modelo.
