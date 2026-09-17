@@ -16,7 +16,7 @@ En este caso se elige un dataset centrado en los peajes a nivel nacional y se qu
 * Github
 
 ## Estructura del Repositorio
-
+```text
 ├── Data/
 │   └── Peajes.csv                 # Dataset estructurado con tarifas del INVIAS
 ├── Reportes/
@@ -28,7 +28,7 @@ En este caso se elige un dataset centrado en los peajes a nivel nacional y se qu
 ├── main.py                        # Script ejecutable principal
 ├── requirements.txt               # Dependencias del entorno
 └── README.md                      # Documentación del proyecto
-
+```
 ## Resultados del Modelo
 * MAE: $1819.16 
 * MSE: 4950374.42
