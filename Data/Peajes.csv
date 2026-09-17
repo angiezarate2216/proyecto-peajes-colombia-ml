@@ -1,0 +1,31 @@
+estacion,categoria_nombre,categoria_num,num_ejes,es_doble_calzada,tarifa
+Chusaca,Cat I,1,2,1,11500
+Chusaca,Cat II,2,2,1,12800
+Chusaca,Cat III,3,3,1,28100
+Chusaca,Cat IV,4,4,1,36100
+Chusaca,Cat V,5,5,1,47200
+Chinauta,Cat I,1,2,1,11500
+Chinauta,Cat II,2,2,1,12800
+Chinauta,Cat III,3,3,1,28100
+Chinauta,Cat IV,4,4,1,36100
+Chinauta,Cat V,5,5,1,47200
+Andes,Cat I,1,2,1,11600
+Andes,Cat II,2,2,1,13200
+Andes,Cat III,3,3,1,29800
+Andes,Cat IV,4,4,1,38400
+Andes,Cat V,5,5,1,49100
+El Bordo,Cat I,1,2,0,10200
+El Bordo,Cat II,2,2,0,11400
+El Bordo,Cat III,3,3,0,25300
+El Bordo,Cat IV,4,4,0,32100
+El Bordo,Cat V,5,5,0,41800
+Villa Rica,Cat I,1,2,0,10200
+Villa Rica,Cat II,2,2,0,11400
+Villa Rica,Cat III,3,3,0,25300
+Villa Rica,Cat IV,4,4,0,32100
+Villa Rica,Cat V,5,5,0,41800
+San Clemente,Cat I,1,2,0,10200
+San Clemente,Cat II,2,2,0,11400
+San Clemente,Cat III,3,3,0,25300
+San Clemente,Cat IV,4,4,0,32100
+San Clemente,Cat V,5,5,0,41800
